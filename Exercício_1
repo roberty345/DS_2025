@@ -4,3 +4,9 @@ Perguntas
 3-Disponibilidade-É preciso que seja disponível, para que possam  ter a capacidade de acessar e utilizar os recursos financeiros de uma conta ou aplicação bancária.
 4-Irretratabilidade-A irretratabilidade é priciso para aumenta a confiança nas transações e informações, pois impede que as partes envolvidas neguem suas ações posteriormente.
 5-Confidencialidade-A confidencialidade garante que as informações financeiras e pessoais dos clientes sejam acessíveis apenas por pessoas autorizadas->(Exemplo: apenas o cliente e a aplicação).
+
+Correção
+2-Criptografia(HTTPS).
+3-Disponibilidade -> Escalabilidade = Redondância -> Plaano contigência.
+4-Apresenta Logs para o malandro❤️
+5-Corformidade-Aplicar RGPD + Auditoria E/I.
